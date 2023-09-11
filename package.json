@@ -1,6 +1,6 @@
 {
   "name": "net.narazaka.vrchat.manual-baker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Manual Baker",
   "description": "Manual bake! (by Modular Avatar and anatawa12's Avatar Optimizer) and destroy EditorOnly objects.",
   "author": {
